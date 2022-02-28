@@ -10,5 +10,5 @@ Update an exisiting websites code to make it easier to work with
 ## Website
 https://furnacewoods.github.io/Challenge-1/
 
-##Contribution
+## Contribution
 Made by Erik Morales
